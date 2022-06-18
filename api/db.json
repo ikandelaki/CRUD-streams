@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is my first stream",
+      "id": 1
+    },
+    {
+      "title": "second stream",
+      "description": ";)",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me!",
+      "userId": "108129666109574165431",
+      "id": 3
+    },
+    {
+      "title": "Ayyyy [edited]",
+      "description": "It works !",
+      "id": 6
+    },
+    {
+      "title": "New test stream",
+      "description": ":)))",
+      "userId": "108129666109574165431",
+      "id": 7
+    }
+  ]
+}
